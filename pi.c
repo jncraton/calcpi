@@ -4,9 +4,7 @@
 
 const long INTERVALS = 12000000;
 
-int main()
-{
-
+int main() {
   double sum = 0.0;
   double midpoint;
   double area;

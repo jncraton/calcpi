@@ -5,6 +5,8 @@ This program calculates PI using definite integrals and the fact that:
 
 ![Pi Expression](pi-expression.png)
 
+![Pi Area](pi-area.png)
+
 You can see this for yourself on [WolframAlpha](https://www.wolframalpha.com/input/?i=integrate%284%2F%281+%2B+x%5E2%29%2C0%2C1%29)
 
 Assignment
